@@ -1,0 +1,19 @@
+{
+  "name": "struct",
+  "version": "1.0.0",
+  "description": "python struct port basically",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n1ywb/struct.js.git"
+  },
+  "author": "Jeffrey M. Laughlin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/n1ywb/struct.js/issues"
+  },
+  "homepage": "https://github.com/n1ywb/struct.js#readme"
+}
